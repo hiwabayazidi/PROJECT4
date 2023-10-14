@@ -1,7 +1,17 @@
+.head >p {
+    font-size: 20px;
+    display: inline;
+    margin: 45px;
+    color: rgb(109, 109, 109);
+}
 .div1{
    display: flex;
-    background-color: rgb(252, 244, 234);
-    justify-content: space-around;
+   background-color: rgb(252, 244, 234);
+   justify-content: space-around;
+    margin: 50px;
+    margin-right: 110px;
+    margin-left: 110px;
+    
 }
 .div2{
    width: 50px;
